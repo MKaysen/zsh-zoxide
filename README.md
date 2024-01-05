@@ -1,1 +1,1 @@
-# zsh-exa
+# zsh-zoxide
